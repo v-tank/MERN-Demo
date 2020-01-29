@@ -16,7 +16,7 @@ To create a Full-Stack MERN app to demonstrate CRUD functionality and competence
 Requirements: *You will need Node.js and mongo installed on your computer.*
 
 1. Navigate to the directory where you would like to download the demo files and run:
- `git clone git@github.com:v-tank/Demo.git`
+ `git clone git@github.com:v-tank/MERN-Demo.git`
 2. `yarn install` in the root directory of the cloned repo
 3. `cd client && yarn install`
 4. Create a local mongoDB database called `db-queries`.
